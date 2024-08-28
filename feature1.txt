@@ -1,4 +1,4 @@
 Bonjour;
 - ceci est la prémière contenue 
 - ceci est la deuxième contenue
--ceci est une contenue a partir de de la branch feature2
+- ceci est une contenue a partir de de la branch feature2;
